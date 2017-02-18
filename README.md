@@ -1,5 +1,4 @@
 # hello-world
-Just Another Repo
 
 Test Line number one
 Branch: readme-edit
